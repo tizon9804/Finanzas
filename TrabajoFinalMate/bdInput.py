@@ -14,7 +14,7 @@ for iterDesv in range(0,5):
     li = bd[0]
     acciones = bd[1:]
     combGroup = 3
-    numIteraciones = 5
+    numIteraciones = 1
     numMejores = 50*numIteraciones
     porcentajeInicialMejores = 600
     minMejoresInit=500
